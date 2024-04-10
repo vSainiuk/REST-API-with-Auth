@@ -47,14 +47,12 @@ It will be used to authenticate and authorize the user when accessing secure end
 
 # Getting started guide:
  - Clone the repository to your local computer.
- - `git clone https://github.com/vSainiuk/RESTful-API-with-Authentication.git`
- - `cd RESTful-API-with-Authentication`
+ - `git clone https://github.com/vSainiuk/REST-API-with-Auth.git`
+ - `cd REST-API-with-Auth`
  - Install all dependencies using `npm install`.
  - Start the server using `npm start`.
 
  Then you can make various requests on the specified endpoints.
-
-# API documentation can be found at http://localhost:3000/api-docs. TODO: write docs
 
 # Contact
 
